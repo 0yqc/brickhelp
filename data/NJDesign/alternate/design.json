@@ -1,0 +1,25 @@
+{
+	"data": {
+		"title": "Designing a Speed Champions Alternate",
+		"description": "<a href=\"https://rebrickable.com/users/NJDesign/\">NJDesign</a> explains how they build their Speed Champion Alternates. From the start of the model to improving the last bits, everything is covered with additional small tips.",
+		"date_publish": "2025-08-04",
+		"date_edit": "2025-08-04",
+		"previous": "/NJDesign/alternates/preparation.json",
+		"next": "/NJDesign/alternates/instructions.json",
+		"tags": [
+			"Speed Champions",
+			"Cars",
+			"Alternate Builds",
+			"Designing",
+			"BrickLink Studio"
+		]
+	},
+	"text": [
+		"Finally, I'll get building. If you are designing in real life, I recommend sorting your parts by type, and if you are using Studio, import the set's inventory into a palette. Design in real life when possible.",
+		"I'll usually start on the sides/doors, as they usually use the most curved sloped and/or tiles before you run out, as many sets don't have an overabundance of either. But if I already have a certain aspect of the model planned in my head, I will start there.",
+		"I try to make my design as unique as possible. Avoid using common solutions for certain details if you can, while remaining very conservative with the set's inventory. Try to save as many useful parts as possible without compromising the design.",
+		"Make sure the model isn't overly complicated, difficult to assemble, or unstable. Exceptions are sometimes okay, but for premium models, I want my customers to have the best experience possible.",
+		"Once I'm initially done designing the car, I check to see what's left of the set's inventory and try to improve the model, whether that be stabilization, aesthetic improvement, or better design elements.",
+		"Then the design is done, and I move on to making instructions."
+	]
+}

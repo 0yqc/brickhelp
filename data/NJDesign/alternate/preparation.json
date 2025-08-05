@@ -1,0 +1,21 @@
+{
+	"data": {
+		"title": "Preparing a Speed Champions Alternate",
+		"description": "<a href=\"https://rebrickable.com/users/NJDesign/\">NJDesign</a> explains how to prepare building an alternate model for a Speed Champions car. From deciding on the set to use to getting blueprints, a lot is covered.",
+		"date_publish": "2025-08-04",
+		"date_edit": "2025-08-04",
+		"previous": null,
+		"next": "/NJDesign/alternates/design.json",
+		"tags": [
+			"Speed Champions",
+			"Cars",
+			"Alternate Builds",
+			"Prepare Designing"
+		]
+	},
+	"text": [
+		"First, I'll pick a set (the newer the set and higher the part count, the better), then observe the inventory and main color.",
+		"Then I'll find the inspiration for the model by looking at examples of the source material (in our case, cars) that are relevant to the subject set's parts and color. Often, I will design a model of similar type/brand to the original set, as it is likely that the potential customer would buy a similar product (assuming they are partial to the original set's manufacturer or type of car).",
+		"Then I'll set up a few good reference images of the source material. I also recommend searching for a blueprint for the source material if you want your model to look as proportionally accurate as possible."
+	]
+}

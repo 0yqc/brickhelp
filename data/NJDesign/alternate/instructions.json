@@ -1,0 +1,24 @@
+{
+	"data": {
+		"title": "Making Instructions for a Speed Champions Alternate",
+		"description": "<a href=\"https://rebrickable.com/users/NJDesign/\">NJDesign</a> explains how to make good instructions using BrickLink Studio, from global options to a thank you page.",
+		"date_publish": "2025-08-04",
+		"date_edit": "2025-08-04",
+		"previous": "/NJDesign/alternates/design.json",
+		"next": "/NJDesign/alternates/final.json",
+		"tags": [
+			"Speed Champions",
+			"Cars",
+			"Alternate Builds",
+			"Making Instructions",
+			"BrickLink Studio"
+		]
+	},
+	"text": [
+		"First, I highly recommend using Studio's Instruction Maker to manually make PDFs as opposed to Youtube videos, 3d files, etc. While it may take a bit more effort to create, it is what customers prefer and is generally the easiest to follow.",
+		"Make the instructions as premium as possible. What I do is click on Global Style in Page Design and make everything exactly how I want it, then click Save As at the top of the Global Style sidebar. That way, your instructions are consistent across all your models when you use the settings you saved.",
+		"Start off Page Design with a small intro. I usually put the model's title on the top of the page, a couple photos, and your username. If you want it to look professional, you can add something like \"Instructions are not for commercial resale\". Next, I'll include a Bill of Materials so the customer can gather the required parts before building if preferred.",
+		"Keep it easy to follow yet short as possible, using settings like Change Layout and Create Callout to save some space. I like to set a goal of 100- pages.",
+		"At the end, include a short thank you message and you are done."
+	]
+}
