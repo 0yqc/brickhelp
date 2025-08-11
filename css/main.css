@@ -1,0 +1,16 @@
+body {
+	max-width: 1024px;
+	min-width: 50% !important;
+	padding: 16px;
+	margin: auto;
+	background: linear-gradient(#004000, #000000, #000040);
+	border-radius: 16px;
+}
+
+a {
+	color: inherit;
+}
+
+h1, h2 {
+	text-align: center;
+}
